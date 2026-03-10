@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+logs/
+*.pyc
+*.pyo
+*.log
+angles_cache.json
+topics_cache.json
+latest_trends.json
